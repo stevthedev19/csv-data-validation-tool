@@ -26,4 +26,6 @@ The tool was designed to reflect real-world data validation scenarios, where dat
 
 ## Usage
 1. Place your CSV file in the project directory and name it `file.csv`
-2. Run the script:
+2. Run the script: python cli_csv_audit_tool.py
+
+
